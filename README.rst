@@ -30,11 +30,12 @@ Example system configuration:
 ::
 
 The following output is from a simple termset called countries with the following structure:
+
 Countries
-|-Asia
-||-China
-|-Europe
-||-Norway
+  Asia
+    China
+  Europe
+    Norway
 
 ::
 
@@ -89,6 +90,7 @@ Countries
 ::
 
 The following properties are returned:
+
 _id
   Identifier of term.
 default_label
